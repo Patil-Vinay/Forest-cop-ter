@@ -11,10 +11,6 @@ Deployed a drone into the forest sector so that it can come handy for the Forest
 - First Aid Box that opens through servo motor
 - All these applications could be observed or controlled through GUI APP.
 
-## Demo Video
-
-[Forestcopter](https://youtu.be/yPEqkrtJqgg)
-
 ## Block Diagram
 ![](https://github.com/Patil-Vinay/Forestcopter/blob/main/Block%20Diagram.png)
 
