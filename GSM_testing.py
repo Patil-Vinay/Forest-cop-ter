@@ -10,7 +10,7 @@ rcv = port.read(10)
 print(rcv)
 time.sleep(1)
 
-port.write(b’ATD9166873301;\r’)
+port.write(b’ATD{phonenumber};\r’)
 print(“Calling…”)
 time.sleep(30)
 port.write(b’ATH\r’)
