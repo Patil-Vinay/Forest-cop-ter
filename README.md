@@ -11,8 +11,8 @@ Deployed a drone into the forest sector so that it can come handy for the Forest
 - First Aid Box that opens through servo motor
 - All these applications could be observed or controlled through GUI APP.
 
-## Block Diagram
-![](https://github.com/Patil-Vinay/Forest-cop-ter/blob/main/Block%20Diagram.png)
+## Graphical Abstract
+![]([https://github.com/Patil-Vinay/Forest-cop-ter/blob/main/Block%20Diagram.png](https://github.com/Patil-Vinay/Forest-cop-ter/blob/main/Graphical%20Abstract.png))
 
 ## Project Preview
 ![](https://github.com/Patil-Vinay/Forest-cop-ter/blob/main/Drone.png)
