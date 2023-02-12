@@ -12,7 +12,7 @@ Deployed a drone into the forest sector so that it can come handy for the Forest
 - All these applications could be observed or controlled through GUI APP.
 
 ## Graphical Abstract
-![]([https://github.com/Patil-Vinay/Forest-cop-ter/blob/main/Block%20Diagram.png](https://github.com/Patil-Vinay/Forest-cop-ter/blob/main/Graphical%20Abstract.png))
+![](https://github.com/Patil-Vinay/Forest-cop-ter/blob/main/Graphical%20Abstract.png))
 
 ## Project Preview
 ![](https://github.com/Patil-Vinay/Forest-cop-ter/blob/main/Drone.png)
